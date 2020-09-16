@@ -34,4 +34,4 @@ We provide two baselines in this repo for comparison: a random query strategy an
 *   *SSDO*: [https://github.com/Vincent-Vercruyssen/anomatools](https://github.com/Vincent-Vercruyssen/anomatools)
 
 ## Related Work
-Our parallel work on graph neural networks have achieved state-of-the-art results on benchmark datasets with deep reinforcement learning. Please check [https://github.com/lhenry15/Policy-GNN](https://github.com/lhenry15/Policy-GNN).
+Our parallel work on graph neural networks achieves state-of-the-art results on benchmark datasets with deep reinforcement learning. Please check [https://github.com/lhenry15/Policy-GNN](https://github.com/lhenry15/Policy-GNN).
