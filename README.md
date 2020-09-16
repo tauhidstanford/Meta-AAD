@@ -16,12 +16,12 @@ Train a meta-policy with `train.py`. The important arguments are as follows.
 *   `--train`: the datasets used for training, seperated by commas.
 *   `--test`: the datasets used for testing, seperated by commas.
 *   `--num_timesteps`: the number of training steps of reinforcement learning agents
-*   `--log`: where the log and models will be outputed
+*   `--log`: where the log and models will be outputted
 
 By default, the reinforcement learning training log will be saved in `log/`, the anomaly discovery curves will be saved in `log/anomaly_curves`, and the trained model will be saved in `log/`.
 
 ## Evaluating a Trained Model
-You may evaluate a trained model with `evaluate.py`. The important arguments aew as follows.
+You may evaluate a trained model with `evaluate.py`. The important arguments are as follows.
 
 *   `--load`: the path to `model.zip` file.
 *   `--test`: the datasets used for testing, seperated by commas.
