@@ -18,7 +18,7 @@ Train a meta-policy with `train.py`. The important arguments are as follows.
 *   `--num_timesteps`: the number of training steps of reinforcement learning agents
 *   `--log`: where the log and models will be outputed
 
-By default, the reinforcement learning training log will be saved in `log/`, the anomaly discovery curves will be saved in `log/anomaly_curves`, and the trained model will be saved in `log/'.
+By default, the reinforcement learning training log will be saved in `log/`, the anomaly discovery curves will be saved in `log/anomaly_curves`, and the trained model will be saved in `log/`.
 
 ## Evaluating a Trained Model
 You may evaluate a trained model with `evaluate.py`. The important arguments aew as follows.
